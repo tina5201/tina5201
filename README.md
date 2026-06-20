@@ -101,13 +101,6 @@ AI-powered system that predicts diseases using patient symptoms and chest X-ray 
 </td>
 <td width="50%">
 
-### 📊 Zomato Ratings Analysis
-Full-stack data analysis dashboard exploring restaurant ratings, locations, and food trends across Bangalore using real-world data.
-
-`React` `Python` `Pandas` `Node.js`
-
-[**🔗 View Repository**](https://github.com/tina5201)
-
 </td>
 </tr>
 </table>
