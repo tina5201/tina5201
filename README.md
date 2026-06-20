@@ -166,12 +166,6 @@ AI-powered system that predicts diseases using patient symptoms and chest X-ray 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6,11,20" width="100%"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6,11,20" width="100%"/>
-
 ---
 
 ## 🤝 Let's Connect!
