@@ -170,20 +170,6 @@ AI-powered system that predicts diseases using patient symptoms and chest X-ray 
 
 ---
 
-## 🎯 Currently
-
-<div align="center">
-
-```
-🔭 Working on   → Zomato Full Stack Dashboard
-🌱 Learning     → React.js + Node.js + MongoDB
-👯 Looking for  → AI/ML & Web Dev Internships
-💬 Ask me about → Python, Machine Learning, Web Dev
-⚡ Fun fact     → I debug code at midnight & enjoy it 😄
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ---
