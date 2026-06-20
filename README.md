@@ -79,7 +79,7 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
-<img width="700" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img width="700" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 </div>
 
 <br/>
