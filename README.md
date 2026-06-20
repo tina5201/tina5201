@@ -99,9 +99,7 @@ AI-powered system that predicts diseases using patient symptoms and chest X-ray 
 [**🔗 View Repository**](https://github.com/tina5201/Medical-Diagnosis-with-ML)
 
 </td>
-<td width="50%">
 
-</td>
 </tr>
 </table>
 
