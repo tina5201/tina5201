@@ -6,9 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tina5201&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/tina5201?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
-
 </div>
 
 <div align="center">
