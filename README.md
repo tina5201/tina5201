@@ -130,10 +130,6 @@ AI-powered system that predicts diseases using patient symptoms and chest X-ray 
 
 </div>
 
-> 📌 **Note:** Language stats update automatically as more code is pushed to repositories — check back soon as more projects get uploaded! 🌱
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&customColorList=6,11,20" width="100%"/>
-
 ---
 
 ## 🏆 Achievements & Certifications
