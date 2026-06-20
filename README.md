@@ -20,7 +20,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/IdyAQJVN2KCr4FBUuT/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=F472B6&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Tina+👋;A+curious+mind+who+loves+building.;Welcome+to+my+little+corner+of+GitHub!" />
 
